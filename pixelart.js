@@ -1,4 +1,4 @@
-# pixel-art
+
 {"y": 0, "x": 0, "color": "#e580b2", "username": "sixelalexis"},
 {"y": 0, "x": 1, "color": "#cbbbff", "username": "sixelalexis"},
 {"y": 0, "x": 2, "color": "#g91e83", "username": "sixelalexis"},
